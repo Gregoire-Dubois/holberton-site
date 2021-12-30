@@ -1,0 +1,62 @@
+body                                                                                                 
+{
+
+    width : 100%;
+    height : 100%;
+
+}
+
+a h1                                                                                                 
+{
+    font-weight : bold;
+    font-color : red;
+}
+.mainContainer                                                                                       
+{
+    width : 100%;
+    height : 100%;
+    margin :0;
+    background-color : #F6F8F9;
+}
+
+header                                                                                               
+{
+    display : grid;
+    grid-template-columns :repeat(3, 1fr);
+    padding : 0;
+    padding-left : 10%;
+    padding-right : 10%;
+}
+
+.logoContainer                                                                                       
+{
+    grid-column : 1;
+    grid-row : 1;
+
+}
+
+.logoContainer h1                                                                                    
+{
+    padding-left: 8%;
+}
+
+.navContainer                                                                                        
+{
+    grid-column : 2/3;
+    grid-row : 1;
+    background-color : red;
+    margin-left : auto;
+    margin-right : auto;
+    display : inline-block;
+}
+
+.navContainer nav ul li                                                                              
+{
+    display: inline-flex;
+    padding: 1%;
+    vertical-align: center;
+    list-style-type: none;
+}
+
+-UU-:----F1  style.css      Top L1     (CSS) --------------------------------------------------------
+For information about GNU Emacs and the GNU system, type C-h C-a.
