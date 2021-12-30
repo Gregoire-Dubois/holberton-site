@@ -4,7 +4,6 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="style.css">
     <script type="module" src="??.js" defer></script>
-    <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
     <title>Au Bugn Home Stay</title>
   </head>
